@@ -1,14 +1,8 @@
-# springboot-blog-rest-api
+
+
+
 Learn how to build real-time REST APIs with Spring Boot by building a complete Blog App.
 
-# Source code of Popular Building Real-Time REST APIs with Spring Boot Course
-Learn how to build real-time REST APIs with Spring Boot by building a complete Blog App.
-
-Udemy Course Link - https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/
-
-Link - https://courses.javaguides.net/p/building-rest-api-with-spring-boot
-
-# What you'll learn in this course ?
 - Learn how to build great REST API’s for Blog App using Spring Boot, Spring Security, JWT, Spring Data JPA (Hibernate), MySQL database
 - Learn REST basics - Resource, Sub-resource, URI, HTTP methods, HTTP status codes
 - Learn how to build CRUD REST API's
